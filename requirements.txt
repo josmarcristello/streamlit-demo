@@ -1,0 +1,9 @@
+auto_mix_prep
+openpyxl
+pandas
+pymongo
+streamlit
+streamlit_extras
+streamlit_float
+streamlit-aggrid
+bcrypt
